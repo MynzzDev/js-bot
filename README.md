@@ -1,1 +1,2 @@
 # js-bot
+first commit!
